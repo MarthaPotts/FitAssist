@@ -7,7 +7,7 @@ The user has access to recent workout, past workout, and aggregate durations and
 
 ## Installation 
 
-This app require Node.js and npm to run, so make sure those are already installed on your local machine. Fork/Clone the repo, initialize
+This app requires Node.js and npm to run, so make sure those are already installed on your local machine. Fork/Clone the repo, initialize
 
 ## Contact 
 
