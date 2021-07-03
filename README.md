@@ -13,4 +13,4 @@ This app requires Node.js and npm to run, so make sure those are already install
 
 leave a message for me here on the 'hub and I'll get back with as soon as possible
 
-![Screenshot](https://drive.google.com/drive/my-drive "screenshot of Fit Assist")
+![Screenshot](workout-tracker/WorkoutTracker/assets/Screen Shot 2021-07-02 at 10.19.42 PM.png raw=true "screenshot of Fit Assist")
