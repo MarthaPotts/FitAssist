@@ -1,0 +1,1 @@
+Testing that the renaming from WorkoutTracker to FitAssist was successful
